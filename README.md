@@ -1,2 +1,0 @@
-# gitskills
-do it now
